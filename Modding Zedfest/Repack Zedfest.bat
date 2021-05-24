@@ -1,0 +1,1 @@
+"UnrealPak Files\UnrealPak.exe" "..\NewMod_P.pak" -Create="Repacking.txt" -compress
