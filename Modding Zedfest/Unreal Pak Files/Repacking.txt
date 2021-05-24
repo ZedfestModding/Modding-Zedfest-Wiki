@@ -1,2 +1,2 @@
-"C:\Modding Zedfest\Mod Files For Repacking\Engine\*" "../../../Engine/"
-"C:\Modding Zedfest\Mod Files For Repacking\KevinSpel\*" "../../../KevinSpel/"
+"..\Mod Files For Repacking\Engine\*" "../../../Engine/"
+"..\Mod Files For Repacking\KevinSpel\*" "../../../KevinSpel/"
