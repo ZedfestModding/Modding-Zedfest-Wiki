@@ -1,7 +1,6 @@
 # Modding-Zedfest-Wiki
-Modding Zedfest Wiki https://github.com/Mythical-Github/Modding-Zedfest-Wiki/wiki/Welcome
 
-This is a wiki guide on how to Mod Zedfest.
+Wiki guide on how to Mod Zedfest created by Mythical.
 
 You will find almost everything in the Wiki section via the Table of Contents (linked below)
 
