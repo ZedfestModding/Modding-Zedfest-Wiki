@@ -7,5 +7,3 @@ You will find almost everything in the Wiki section via the Table of Contents (l
 https://github.com/Mythical-Github/Modding-Zedfest-Wiki/wiki/Welcome (I would bookmark this link)
 
 Code is batch files for automating some of the processes involved (i.e. unpacking, repacking, etc...)
-
-You can contact me via Discord at 𝓜𝔂𝓽𝓱𝓲𝓬𝓪𝓵#4914
